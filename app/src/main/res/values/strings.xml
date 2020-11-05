@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CovidTracing</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="ble_uuid">FA18D239-BF14-4D82-B2E6-1000DA7870AF</string>
+    <string name="bt_null">Bluetooth Object Null</string>
+    <string name="start_error_prefix">error</string>
+    <string name="start_error_already_started">start_error_already_started</string>
+    <string name="start_error_too_large">start_error_too_large</string>
+    <string name="start_error_unsupported">ADVERTISE_FAILED_FEATURE_UNSUPPORTED</string>
+    <string name="start_error_internal">ADVERTISE_FAILED_INTERNAL_ERROR</string>
+    <string name="start_error_too_many">ADVERTISE_FAILED_TOO_MANY_ADVERTISERS</string>
+    <string name="advertising_timedout">ADVERTISING_TIMED_OUT</string>
+    <string name="start_error_unknown">error</string>
+    <string name="msg_subscribed">Tạo Topic FCM thành công</string>
+    <string name="msg_subscribe_failed">Tạo Topic FCM thất bại</string>
+</resources>

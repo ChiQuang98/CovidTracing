@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "583032605051",
+    "firebase_url": "https://covidtracing-749e0.firebaseio.com",
+    "project_id": "covidtracing-749e0",
+    "storage_bucket": "covidtracing-749e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583032605051:android:6a813d9bb805c310b615de",
+        "android_client_info": {
+          "package_name": "com.ptitfinal.covidtracing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "583032605051-tlrmphfu98ua0um8if1f18ob2n7c9d74.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ptitfinal.covidtracing",
+            "certificate_hash": "9be3498d88c5deecd74027373bdcc76ce0d8a718"
+          }
+        },
+        {
+          "client_id": "583032605051-p14pe6gj07u98vu23hl43ko0u4r0l712.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOUQhazuAghIeBKkxEhztfXO7YhJFNYGw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "583032605051-p14pe6gj07u98vu23hl43ko0u4r0l712.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

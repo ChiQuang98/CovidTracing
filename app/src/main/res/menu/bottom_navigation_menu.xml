@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bottom_nav_home_page"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:title="Trang Chủ"/>
+    <item
+        android:id="@+id/bottom_nav_notification"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_notifications_24"
+        android:title="Thông Báo"/>
+</menu>
